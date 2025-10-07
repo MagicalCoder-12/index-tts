@@ -1,0 +1,835 @@
+[
+  {
+    "file_name":"common_voice_te_43371640.wav",
+    "original_file":"common_voice_te_43371640.mp3",
+    "sentence_id":"43371640",
+    "text":"\u0c32\u0c3f\u0c02\u0c17 \u0c15\u0c43\u0c37\u0c4d\u0c23\u0c41\u0c32\u0c02\u0c26\u0c41 \u0c32\u0c47\u0c26\u0c41\u0c30\u0c3e \u0c2d\u0c47\u0c26\u0c02\u0c2c\u0c41",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_42974000.wav",
+    "original_file":"common_voice_te_42974000.mp3",
+    "sentence_id":"42974000",
+    "text":"\u0c2e\u0c41\u0c02\u0c26\u0c41\u0c1a\u0c42\u0c2a\u0c41 \u0c32\u0c47\u0c28\u0c3f \u0c2e\u0c42\u0c30\u0c4d\u0c16\u0c41\u0c02\u0c21\u0c41 \u0c1a\u0c46\u0c21\u0c3f\u0c2a\u0c4b\u0c35\u0c41",
+    "duration_ms":5688
+  },
+  {
+    "file_name":"common_voice_te_42973999.wav",
+    "original_file":"common_voice_te_42973999.mp3",
+    "sentence_id":"42973999",
+    "text":"\u0c2c\u0c4b\u0c38\u0c41 \u0c35\u0c40\u0c30\u0c41\u0c28\u0c3f \u0c15\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c3f",
+    "duration_ms":4356
+  },
+  {
+    "file_name":"common_voice_te_43371454.wav",
+    "original_file":"common_voice_te_43371454.mp3",
+    "sentence_id":"43371454",
+    "text":"\u0c2d\u0c3e\u0c37",
+    "duration_ms":1836
+  },
+  {
+    "file_name":"common_voice_te_43371459.wav",
+    "original_file":"common_voice_te_43371459.mp3",
+    "sentence_id":"43371459",
+    "text":"\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c1f\u0c3f \u0c35\u0c3e\u0c30\u0c3f \u0c28\u0c40\u0c1a\u0c24\u0c01",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_43371519.wav",
+    "original_file":"common_voice_te_43371519.mp3",
+    "sentence_id":"43371519",
+    "text":"\u0c07\u0c35\u0c3e\u0c33 \u0c2e\u0c40 \u0c05\u0c02\u0c26\u0c30\u0c3f\u0c15\u0c3f \u0c12\u0c15 \u0c15\u0c25 \u0c1a\u0c46\u0c2a\u0c41\u0c24\u0c3e\u0c28\u0c41",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371477.wav",
+    "original_file":"common_voice_te_43371477.mp3",
+    "sentence_id":"43371477",
+    "text":"\u0c1a\u0c47\u0c2f\u0c3f \u0c26\u0c3f\u0c30\u0c3f\u0c17\u0c3f\u0c28\u0c1f\u0c4d\u0c1f\u0c3f \u0c36\u0c3f\u0c32\u0c3f\u0c2a\u0c3f \u0c2f\u0c24\u0c21\u0c41",
+    "duration_ms":4356
+  },
+  {
+    "file_name":"common_voice_te_43371456.wav",
+    "original_file":"common_voice_te_43371456.mp3",
+    "sentence_id":"43371456",
+    "text":"\u0c35\u0c47\u0c21\u0c3f\u0c17\u0c3e\u0c32\u0c41\u0c32\u0c41 \u0c35\u0c40\u0c2f\u0c32\u0c47\u0c26\u0c41",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_43371574.wav",
+    "original_file":"common_voice_te_43371574.mp3",
+    "sentence_id":"43371574",
+    "text":"\u0c24\u0c46\u0c28\u0c41\u0c17\u0c41 \u0c15\u0c35\u0c41\u0c32\u0c35\u0c02\u0c1f\u0c3f \u0c18\u0c28\u0c41\u0c32\u0c41 \u0c32\u0c47\u0c30\u0c41",
+    "duration_ms":3420
+  },
+  {
+    "file_name":"common_voice_te_43406794.wav",
+    "original_file":"common_voice_te_43406794.mp3",
+    "sentence_id":"43406794",
+    "text":"\u0c35\u0c3f\u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c2e\u0c41 !",
+    "duration_ms":2628
+  },
+  {
+    "file_name":"common_voice_te_43371492.wav",
+    "original_file":"common_voice_te_43371492.mp3",
+    "sentence_id":"43371492",
+    "text":"\u0c05\u0c32\u0c41\u0c17\u0c41 \u0c2a\u0c3e\u0c30\u0c3f \u0c1a\u0c46\u0c30\u0c41\u0c35\u0c41 \u0c1c\u0c32\u0c2e\u0c41\u0c32 \u0c15\u0c3e\u0c2a\u0c3e\u0c21\u0c41",
+    "duration_ms":4500
+  },
+  {
+    "file_name":"common_voice_te_43371483.wav",
+    "original_file":"common_voice_te_43371483.mp3",
+    "sentence_id":"43371483",
+    "text":"\u0c2c\u0c3e\u0c35\u0c3f \u0c24\u0c4d\u0c30\u0c35\u0c4d\u0c35 \u0c28\u0c47\u0c2e\u0c3f \u0c2b\u0c32\u0c2e\u0c41 \u0c17\u0c32\u0c41\u0c17\u0c41",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371458.wav",
+    "original_file":"common_voice_te_43371458.mp3",
+    "sentence_id":"43371458",
+    "text":"\u0c08 \u0c05\u0c2e\u0c4d\u0c2e\u0c3e\u0c2f\u0c3f \u0c2c\u0c3e\u0c17\u0c3e \u0c2a\u0c3e\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f.",
+    "duration_ms":3348
+  },
+  {
+    "file_name":"common_voice_te_43371628.wav",
+    "original_file":"common_voice_te_43371628.mp3",
+    "sentence_id":"43371628",
+    "text":"\u0c26\u0c41\u0c30\u0c4d\u0c1c\u0c28 \u0c2a\u0c26\u0c4d\u0c27\u0c24\u0c3f",
+    "duration_ms":2808
+  },
+  {
+    "file_name":"common_voice_te_43371646.wav",
+    "original_file":"common_voice_te_43371646.mp3",
+    "sentence_id":"43371646",
+    "text":"\u0c2a\u0c4d\u0c30\u0c3e\u0c23\u0c3e\u0c32\u0c41 \u0c26\u0c3e\u0c1a\u0c41\u0c15\u0c4b",
+    "duration_ms":3060
+  },
+  {
+    "file_name":"common_voice_te_43371509.wav",
+    "original_file":"common_voice_te_43371509.mp3",
+    "sentence_id":"43371509",
+    "text":"\u0c17\u0c3e\u0c32\u0c3f \u0c35\u0c47\u0c17\u0c02 \u0c2a\u0c46\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f",
+    "duration_ms":2736
+  },
+  {
+    "file_name":"common_voice_te_43371576.wav",
+    "original_file":"common_voice_te_43371576.mp3",
+    "sentence_id":"43371576",
+    "text":"\u0c2a\u0c32\u0c41\u0c15\u0c41\u0c2a\u0c32\u0c41\u0c15\u0c41\u0c32\u0c4b\u0c28 \u0c28\u0c4a\u0c32\u0c3f\u0c15\u0c46\u0c30\u0c3e \u0c2e\u0c41\u0c24\u0c4d\u0c2f\u0c3e\u0c32\u0c41",
+    "duration_ms":3528
+  },
+  {
+    "file_name":"common_voice_te_43371475.wav",
+    "original_file":"common_voice_te_43371475.mp3",
+    "sentence_id":"43371475",
+    "text":"\u0c17\u0c3e\u0c32\u0c3f \u0c35\u0c40\u0c1a\u0c41 \u0c1a\u0c46\u0c1f\u0c4d\u0c32\u0c41 \u0c2a\u0c42\u0c32\u0c41\u0c2a\u0c42\u0c1a\u0c41",
+    "duration_ms":3708
+  },
+  {
+    "file_name":"common_voice_te_42973996.wav",
+    "original_file":"common_voice_te_42973996.mp3",
+    "sentence_id":"42973996",
+    "text":"\u0c15\u0c32\u0c38\u0c2a\u0c3e\u0c21\u0c41 \u0c2c\u0c4d\u0c30\u0c3f\u0c21\u0c4d\u0c1c\u0c3f\u0c2a\u0c48 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c28\u0c40\u0c30\u0c41 \u0c2a\u0c4d\u0c30\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f",
+    "duration_ms":6876
+  },
+  {
+    "file_name":"common_voice_te_43371638.wav",
+    "original_file":"common_voice_te_43371638.mp3",
+    "sentence_id":"43371638",
+    "text":"\u0c2c\u0c4b\u0c38\u0c41 \u0c35\u0c40\u0c30\u0c41\u0c28\u0c3f \u0c15\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c3f",
+    "duration_ms":2736
+  },
+  {
+    "file_name":"common_voice_te_43371643.wav",
+    "original_file":"common_voice_te_43371643.mp3",
+    "sentence_id":"43371643",
+    "text":"\u0c15\u0c32\u0c3f\u0c2e\u0c3f \u0c32\u0c47\u0c15 \u0c1a\u0c46\u0c32\u0c3f\u0c2e\u0c3f\u0c15\u0c3e\u0c02\u0c21\u0c4d\u0c30\u0c41 \u0c32\u0c47\u0c30\u0c41",
+    "duration_ms":3240
+  },
+  {
+    "file_name":"common_voice_te_43371431.wav",
+    "original_file":"common_voice_te_43371431.mp3",
+    "sentence_id":"43371431",
+    "text":"\u0c2e\u0c3e \u0c15\u0c33\u0c28\u0c41 \u0c17\u0c41\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c3f \u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c30\u0c3e\u0c35\u0c21\u0c02 \u0c0e\u0c02\u0c24\u0c4b \u0c06\u0c28\u0c02\u0c26\u0c02\u0c17\u0c3e \u0c09\u0c02\u0c1f\u0c41\u0c02\u0c26\u0c3f.",
+    "duration_ms":6876
+  },
+  {
+    "file_name":"common_voice_te_43371429.wav",
+    "original_file":"common_voice_te_43371429.mp3",
+    "sentence_id":"43371429",
+    "text":"\u0c28\u0c47\u0c21\u0c41, \u0c30\u0c47\u0c2a\u0c41 \u0c30\u0c3e\u0c2f\u0c32\u0c38\u0c40\u0c2e\u0c32\u0c4b \u0c2d\u0c3e\u0c30\u0c40 \u0c35\u0c30\u0c4d\u0c37\u0c3e\u0c32\u0c41 \u0c2a\u0c21\u0c47 \u0c05\u0c35\u0c15\u0c3e\u0c36\u0c3e\u0c32\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f",
+    "duration_ms":6480
+  },
+  {
+    "file_name":"common_voice_te_43371460.wav",
+    "original_file":"common_voice_te_43371460.mp3",
+    "sentence_id":"43371460",
+    "text":"\u0c26\u0c47\u0c35\u0c24\u0c32\u0c15\u0c41 \u0c28\u0c3f\u0c21\u0c15 \u0c24\u0c3f\u0c28\u0c46\u0c21\u0c3f\u0c35\u0c3e\u0c28\u0c3f",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_43371567.wav",
+    "original_file":"common_voice_te_43371567.mp3",
+    "sentence_id":"43371567",
+    "text":"\u0c17\u0c41\u0c02\u0c21\u0c4d\u0c32\u0c15\u0c2e\u0c4d\u0c2e \u0c35\u0c3e\u0c17\u0c41\u0c32\u0c4b \u0c1f\u0c4d\u0c30\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c4d \u0c15\u0c4a\u0c1f\u0c4d\u0c1f\u0c41\u0c15\u0c41\u0c2a\u0c4b\u0c2f\u0c3f\u0c02\u0c26\u0c3f",
+    "duration_ms":4320
+  },
+  {
+    "file_name":"common_voice_te_43371478.wav",
+    "original_file":"common_voice_te_43371478.mp3",
+    "sentence_id":"43371478",
+    "text":"\u0c2e\u0c27\u0c41\u0c30\u0c1c\u0c32\u0c2e\u0c41 \u0c32\u0c4a\u0c38\u0c17\u0c41 \u0c2e\u0c3e\u0c28\u0c35\u0c41\u0c32\u0c15\u0c41",
+    "duration_ms":3528
+  },
+  {
+    "file_name":"common_voice_te_43371502.wav",
+    "original_file":"common_voice_te_43371502.mp3",
+    "sentence_id":"43371502",
+    "text":"\u0c35\u0c3e\u0c17\u0c41\u0c32\u0c41, \u0c35\u0c02\u0c15\u0c32\u0c41 \u0c2a\u0c4a\u0c02\u0c17\u0c3f \u0c2a\u0c4a\u0c30\u0c4d\u0c32\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f",
+    "duration_ms":3636
+  },
+  {
+    "file_name":"common_voice_te_43371500.wav",
+    "original_file":"common_voice_te_43371500.mp3",
+    "sentence_id":"43371500",
+    "text":"\u0c15\u0c37\u0c4d\u0c1f\u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c2c\u0c4b\u0c15\u0c41 \u0c15\u0c28\u0c4d\u0c28\u0c24\u0c32\u0c4d\u0c32\u0c3f \u0c2e\u0c28\u0c38\u0c4d\u0c38\u0c41",
+    "duration_ms":3960
+  },
+  {
+    "file_name":"common_voice_te_43371569.wav",
+    "original_file":"common_voice_te_43371569.mp3",
+    "sentence_id":"43371569",
+    "text":"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0c2c\u0c3e\u0c32! \u0c36\u0c24\u0c15\u0c02\u0c1c\u0c02\u0c27\u0c4d\u0c2f\u0c3e\u0c32 \u0c2a\u0c3e\u0c2a\u0c2f\u0c4d\u0c2f \u0c36\u0c3e\u0c38\u0c4d\u0c24\u0c4d\u0c30\u0c3f",
+    "duration_ms":4248
+  },
+  {
+    "file_name":"common_voice_te_43371631.wav",
+    "original_file":"common_voice_te_43371631.mp3",
+    "sentence_id":"43371631",
+    "text":"\u0c2a\u0c4d\u0c30\u0c1c\u0c32\u0c41 \u0c30\u0c47\u0c2c\u0c35\u0c33\u0c4d\u0c33\u0c41 \u0c2a\u0c32\u0c41\u0c15\u0c41 \u0c2d\u0c3e\u0c37",
+    "duration_ms":3636
+  },
+  {
+    "file_name":"common_voice_te_43371490.wav",
+    "original_file":"common_voice_te_43371490.mp3",
+    "sentence_id":"43371490",
+    "text":"\u0c35\u0c3e\u0c17\u0c41\u0c32\u0c4b \u0c1a\u0c3f\u0c15\u0c4d\u0c15\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28 \u0c35\u0c3e\u0c30\u0c3f\u0c28\u0c3f \u0c17\u0c1c \u0c08\u0c24\u0c17\u0c3e\u0c33\u0c4d\u0c32\u0c41 \u0c12\u0c21\u0c4d\u0c21\u0c41\u0c15\u0c41 \u0c1a\u0c47\u0c30\u0c4d\u0c1a\u0c3e\u0c30\u0c41",
+    "duration_ms":4428
+  },
+  {
+    "file_name":"common_voice_te_43406784.wav",
+    "original_file":"common_voice_te_43406784.mp3",
+    "sentence_id":"43406784",
+    "text":"\u0c05\u0c32\u0c4d\u0c2a\u0c2e\u0c24\u0c3f\u0c15\u0c3f \u0c2a\u0c26\u0c35\u0c3f \u0c39\u0c38\u0c4d\u0c2f\u0c3e\u0c38\u0c4d\u0c2a\u0c26\u0c02\u0c2c\u0c41\u0c30\u0c3e",
+    "duration_ms":5976
+  },
+  {
+    "file_name":"common_voice_te_43371597.wav",
+    "original_file":"common_voice_te_43371597.mp3",
+    "sentence_id":"43371597",
+    "text":"\u0c24\u0c17\u0c41 \u0c28\u0c41\u0c2a\u0c3e\u0c2f\u0c2e\u0c41\u0c28\u0c4d\u0c28 \u0c24\u0c2a\u0c4d\u0c2a\u0c41 \u0c28\u0c2a\u0c3e\u0c2f\u0c02\u0c2c\u0c41",
+    "duration_ms":4320
+  },
+  {
+    "file_name":"common_voice_te_43371440.wav",
+    "original_file":"common_voice_te_43371440.mp3",
+    "sentence_id":"43371440",
+    "text":"\u0c0f \u0c2e\u0c02\u0c26\u0c39\u0c3e\u0c38\u0c2e\u0c41\u0c35\u0c32\u0c28 \u0c17\u0c4a\u0c2a\u0c4d\u0c2a\u0c26\u0c48\u0c28",
+    "duration_ms":4608
+  },
+  {
+    "file_name":"common_voice_te_43371551.wav",
+    "original_file":"common_voice_te_43371551.mp3",
+    "sentence_id":"43371551",
+    "text":"\u0c05\u0c02\u0c26\u0c2e\u0c48\u0c28 \u0c38\u0c42\u0c15\u0c4d\u0c24\u0c3f \u0c05\u0c30\u0c41\u0c23\u0c4b\u0c26\u0c2f\u0c02\u0c2c\u0c1f\u0c4d\u0c32\u0c41",
+    "duration_ms":3816
+  },
+  {
+    "file_name":"common_voice_te_43371461.wav",
+    "original_file":"common_voice_te_43371461.mp3",
+    "sentence_id":"43371461",
+    "text":"\u0c2c\u0c32\u0c35\u0c02\u0c24\u0c41\u0c21\u0c28\u0c3f",
+    "duration_ms":2196
+  },
+  {
+    "file_name":"common_voice_te_43406782.wav",
+    "original_file":"common_voice_te_43406782.mp3",
+    "sentence_id":"43406782",
+    "text":"\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c48\u0c30\u0c41\u0c17\u0c3e\u0c32\u0c3f \u0c2a\u0c30\u0c3f\u0c30\u0c02\u0c2d\u0c23\u0c2e\u0c4d\u0c2e\u0c41\u0c32\u0c41",
+    "duration_ms":5256
+  },
+  {
+    "file_name":"common_voice_te_43371503.wav",
+    "original_file":"common_voice_te_43371503.mp3",
+    "sentence_id":"43371503",
+    "text":"\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c15\u0c35\u0c41\u0c32\u0c15\u0c46\u0c32\u0c4d\u0c32 \u0c05\u0c28\u0c4d\u0c28\u0c2f\u0c4d\u0c2f \u0c28\u0c28\u0c4d\u0c28\u0c2f\u0c4d\u0c2f",
+    "duration_ms":4140
+  },
+  {
+    "file_name":"common_voice_te_43371457.wav",
+    "original_file":"common_voice_te_43371457.mp3",
+    "sentence_id":"43371457",
+    "text":"\u0c2a\u0c47\u0c30\u0c41\u0c17\u0c28\u0c4d\u0c28 \u0c15\u0c30\u0c4d\u0c2e\u0c35\u0c40\u0c30\u0c41\u0c21\u0c47 \u0c2e\u0c43\u0c24\u0c1c\u0c40\u0c35\u0c3f",
+    "duration_ms":4320
+  },
+  {
+    "file_name":"common_voice_te_43371505.wav",
+    "original_file":"common_voice_te_43371505.mp3",
+    "sentence_id":"43371505",
+    "text":"\u0c28\u0c47\u0c2e\u0c3f\u0c2b\u0c32\u0c02\u0c2c\u0c41 \u0c1a\u0c47\u0c26\u0c41\u0c35\u0c3f\u0c21",
+    "duration_ms":4320
+  },
+  {
+    "file_name":"common_voice_te_43371629.wav",
+    "original_file":"common_voice_te_43371629.mp3",
+    "sentence_id":"43371629",
+    "text":"\u0c32\u0c32\u0c3f\u0c24\u0c38\u0c41\u0c17\u0c41\u0c23\u0c1c\u0c3e\u0c32! \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0c2c\u0c3e\u0c32!!",
+    "duration_ms":3456
+  },
+  {
+    "file_name":"common_voice_te_43371608.wav",
+    "original_file":"common_voice_te_43371608.mp3",
+    "sentence_id":"43371608",
+    "text":"\u0c38\u0c30\u0c4d\u0c35\u0c17\u0c4b\u0c33\u0c2e\u0c41\u0c32\u0c28\u0c41 \u0c2a\u0c3e\u0c32\u0c3f\u0c02\u0c1a\u0c41\u0c28\u0c26\u0c3f",
+    "duration_ms":3456
+  },
+  {
+    "file_name":"common_voice_te_43371493.wav",
+    "original_file":"common_voice_te_43371493.mp3",
+    "sentence_id":"43371493",
+    "text":"\u0c2c\u0c4d\u0c30\u0c24\u0c3f\u0c15\u0c3f\u0c28\u0c28\u0c4d\u0c28\u0c3f\u0c28\u0c3e\u0c33\u0c4d\u0c33\u0c41 \u0c2b\u0c32\u0c2e\u0c41 \u0c32\u0c3f\u0c1a\u0c4d\u0c1a\u0c41\u0c1f \u0c17\u0c3e\u0c26\u0c41",
+    "duration_ms":3816
+  },
+  {
+    "file_name":"common_voice_te_43371560.wav",
+    "original_file":"common_voice_te_43371560.mp3",
+    "sentence_id":"43371560",
+    "text":"\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c48\u0c30\u0c41\u0c17\u0c3e\u0c32\u0c3f \u0c2a\u0c30\u0c3f\u0c30\u0c02\u0c2d\u0c23\u0c2e\u0c4d\u0c2e\u0c41\u0c32\u0c41",
+    "duration_ms":3996
+  },
+  {
+    "file_name":"common_voice_te_43371587.wav",
+    "original_file":"common_voice_te_43371587.mp3",
+    "sentence_id":"43371587",
+    "text":"\u0c2a\u0c26\u0c3f",
+    "duration_ms":2016
+  },
+  {
+    "file_name":"common_voice_te_43371558.wav",
+    "original_file":"common_voice_te_43371558.mp3",
+    "sentence_id":"43371558",
+    "text":"\u0c2e\u0c02\u0c1a\u0c3f\u0c35\u0c3e\u0c30\u0c3f \u0c2e\u0c4b\u0c38\u0c17\u0c3f\u0c02\u0c1a\u0c41\u0c1a\u0c41\u0c02\u0c21\u0c41",
+    "duration_ms":4140
+  },
+  {
+    "file_name":"common_voice_te_43371455.wav",
+    "original_file":"common_voice_te_43371455.mp3",
+    "sentence_id":"43371455",
+    "text":"\u0c17\u0c4c\u0c24\u0c2e\u0c40 \u0c24\u0c30\u0c02\u0c17\u0c23\u0c40 \u0c24\u0c30\u0c02\u0c17\u0c2e\u0c41\u0c32\u0c15\u0c41",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371452.wav",
+    "original_file":"common_voice_te_43371452.mp3",
+    "sentence_id":"43371452",
+    "text":"\u0c27\u0c30\u0c23\u0c3f\u0c32\u0c4b\u0c2a\u0c32 \u0c28\u0c47\u0c28\u0c41",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_43371612.wav",
+    "original_file":"common_voice_te_43371612.mp3",
+    "sentence_id":"43371612",
+    "text":"\u0c05\u0c2f\u0c3f\u0c24\u0c47 \u0c38\u0c4b\u0c2e\u0c35\u0c3e\u0c30\u0c02 \u0c35\u0c3e\u0c30\u0c41 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c32\u0c2f\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c30\u0c3e\u0c32\u0c47\u0c26\u0c41",
+    "duration_ms":3960
+  },
+  {
+    "file_name":"common_voice_te_43371438.wav",
+    "original_file":"common_voice_te_43371438.mp3",
+    "sentence_id":"43371438",
+    "text":"\u0c2a\u0c32\u0c41\u0c30\u0c4b\u0c17\u0c2e\u0c41\u0c32\u0c15\u0c41 \u0c28\u0c40",
+    "duration_ms":3528
+  },
+  {
+    "file_name":"common_voice_te_43371577.wav",
+    "original_file":"common_voice_te_43371577.mp3",
+    "sentence_id":"43371577",
+    "text":"\u0c2c\u0c3e\u0c32 \u0c2c\u0c3e\u0c32\u0c3f\u0c15\u0c32\u0c28\u0c41",
+    "duration_ms":2808
+  },
+  {
+    "file_name":"common_voice_te_42973998.wav",
+    "original_file":"common_voice_te_42973998.mp3",
+    "sentence_id":"42973998",
+    "text":"\u0c2e\u0c40\u0c21\u0c3f\u0c2f\u0c3e\u0c32\u0c41 \u0c35\u0c02\u0c24 \u0c2a\u0c3e\u0c21\u0c41 \u0c1a\u0c41\u0c02\u0c21\u0c41",
+    "duration_ms":5220
+  },
+  {
+    "file_name":"common_voice_te_42973997.wav",
+    "original_file":"common_voice_te_42973997.mp3",
+    "sentence_id":"42973997",
+    "text":"\u0c38\u0c4d\u0c27\u0c3f\u0c30\u0c2e\u0c24\u0c41\u0c32\u0c48 \u0c38\u0c26\u0c3e\u0c2d\u0c1c\u0c28 \u0c38\u0c47\u0c2f\u0c41 \u0c2e\u0c39\u0c3e\u0c24\u0c4d\u0c2e\u0c41\u0c32 \u0c2a\u0c3e\u0c26\u0c27\u0c42\u0c33\u0c3f \u0c28\u0c3e",
+    "duration_ms":10980
+  },
+  {
+    "file_name":"common_voice_te_43371586.wav",
+    "original_file":"common_voice_te_43371586.mp3",
+    "sentence_id":"43371586",
+    "text":"\u0c24\u0c32\u0c4d\u0c32\u0c3f\u0c15\u0c3e\u0c2a\u0c3e\u0c21\u0c41\u0c28\u0c3e",
+    "duration_ms":2376
+  },
+  {
+    "file_name":"common_voice_te_43371594.wav",
+    "original_file":"common_voice_te_43371594.mp3",
+    "sentence_id":"43371594",
+    "text":"\u0c28\u0c40\u0c1f \u0c15\u0c41\u0c02\u0c1c\u0c30\u0c2e\u0c41\u0c28\u0c41 \u0c28\u0c3f\u0c32\u0c2c\u0c46\u0c1f\u0c4d\u0c1f\u0c41 \u0c2e\u0c4a\u0c38\u0c32\u0c3f\u0c28\u0c3f",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371552.wav",
+    "original_file":"common_voice_te_43371552.mp3",
+    "sentence_id":"43371552",
+    "text":"\u0c15\u0c41\u0c2e\u0c3e\u0c30 \u0c36\u0c24\u0c15\u0c2e\u0c41",
+    "duration_ms":2628
+  },
+  {
+    "file_name":"common_voice_te_43371585.wav",
+    "original_file":"common_voice_te_43371585.mp3",
+    "sentence_id":"43371585",
+    "text":"\u0c38\u0c3f\u0c17\u0c4d\u0c17\u0c41\u0c32\u0c47\u0c28\u0c3f \u0c15\u0c4b\u0c24\u0c3f \u0c2e\u0c4a\u0c17\u0c4d\u0c17\u0c32\u0c47\u0c38\u0c46",
+    "duration_ms":3240
+  },
+  {
+    "file_name":"common_voice_te_43371550.wav",
+    "original_file":"common_voice_te_43371550.mp3",
+    "sentence_id":"43371550",
+    "text":"\u0c2e\u0c42\u0c21\u0c41 \u0c26\u0c36\u0c32\u0c41 \u0c35\u0c3f\u0c24\u0c4d\u0c24\u0c2e\u0c41\u0c28\u0c15\u0c41",
+    "duration_ms":3060
+  },
+  {
+    "file_name":"common_voice_te_43371610.wav",
+    "original_file":"common_voice_te_43371610.mp3",
+    "sentence_id":"43371610",
+    "text":"\u0c2c\u0c3e\u0c35\u0c3f \u0c28\u0c40\u0c1f\u0c3f\u0c32\u0c4b\u0c28 \u0c2a\u0c4d\u0c30\u0c24\u0c3f\u0c2c\u0c3f\u0c02\u0c2c\u0c2e\u0c41\u0c28\u0c41 \u0c1a\u0c42\u0c2a\u0c3f",
+    "duration_ms":3600
+  },
+  {
+    "file_name":"common_voice_te_43371501.wav",
+    "original_file":"common_voice_te_43371501.mp3",
+    "sentence_id":"43371501",
+    "text":"\u0c24\u0c41\u0c02\u0c17\u0c2d\u0c26\u0c4d\u0c30 \u0c28\u0c3e\u0c21\u0c41 \u0c2a\u0c4a\u0c02\u0c17\u0c41\u0c32\u0c46\u0c24\u0c4d\u0c24\u0c3f\u0c28\u0c26\u0c3f\u0c30\u0c3e",
+    "duration_ms":3888
+  },
+  {
+    "file_name":"common_voice_te_43371559.wav",
+    "original_file":"common_voice_te_43371559.mp3",
+    "sentence_id":"43371559",
+    "text":"\u0c06\u0c2f\u0c28 \u0c32\u0c15\u0c4d\u0c37\u0c4d\u0c2f\u0c02 \u0c2e\u0c24 \u0c35\u0c3f\u0c26\u0c4d\u0c35\u0c47\u0c37\u0c3e\u0c32\u0c28\u0c41 \u0c30\u0c46\u0c1a\u0c4d\u0c1a\u0c17\u0c4a\u0c1f\u0c4d\u0c1f\u0c21\u0c02",
+    "duration_ms":4176
+  },
+  {
+    "file_name":"common_voice_te_43371568.wav",
+    "original_file":"common_voice_te_43371568.mp3",
+    "sentence_id":"43371568",
+    "text":"\u0c26\u0c4a\u0c30\u0c32\u0c41 \u0c26\u0c4b\u0c1a\u0c32\u0c47\u0c30\u0c41",
+    "duration_ms":2880
+  },
+  {
+    "file_name":"common_voice_te_43371491.wav",
+    "original_file":"common_voice_te_43371491.mp3",
+    "sentence_id":"43371491",
+    "text":"\u0c07\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c2e\u0c28 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c28\u0c4d\u0c28 \u0c05\u0c24\u0c3f \u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c38\u0c35\u0c3e\u0c32\u0c41 \u0c07\u0c26\u0c47",
+    "duration_ms":3960
+  },
+  {
+    "file_name":"common_voice_te_43371453.wav",
+    "original_file":"common_voice_te_43371453.mp3",
+    "sentence_id":"43371453",
+    "text":"\u0c2a\u0c4d\u0c30\u0c15\u0c3e\u0c36\u0c02 \u0c2c\u0c4d\u0c2f\u0c3e\u0c30\u0c47\u0c1c\u0c3f\u0c32\u0c4b\u0c15\u0c3f \u0c35\u0c30\u0c26 \u0c2a\u0c4b\u0c1f\u0c46\u0c24\u0c4d\u0c24\u0c41\u0c24\u0c4b\u0c02\u0c26\u0c3f",
+    "duration_ms":4176
+  },
+  {
+    "file_name":"common_voice_te_43371428.wav",
+    "original_file":"common_voice_te_43371428.mp3",
+    "sentence_id":"43371428",
+    "text":"\u0c28\u0c40\u0c24\u0c3f\u0c2a\u0c30\u0c41\u0c32\u0c41 \u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c24\u0c41\u0c30\u0c41\u0c17\u0c3e\u0c15",
+    "duration_ms":4680
+  },
+  {
+    "file_name":"common_voice_te_43371572.wav",
+    "original_file":"common_voice_te_43371572.mp3",
+    "sentence_id":"43371572",
+    "text":"\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c46",
+    "duration_ms":2088
+  },
+  {
+    "file_name":"common_voice_te_43371641.wav",
+    "original_file":"common_voice_te_43371641.mp3",
+    "sentence_id":"43371641",
+    "text":"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u0c26\u0c3f\u0c17\u0c4d\u0c17\u0c1c\u0c2e\u0c41\u0c32\u0c41",
+    "duration_ms":2700
+  },
+  {
+    "file_name":"common_voice_te_43371639.wav",
+    "original_file":"common_voice_te_43371639.mp3",
+    "sentence_id":"43371639",
+    "text":"\u0c38\u0c3e\u0c27\u0c41 \u0c38\u0c02\u0c17\u0c2e\u0c2e\u0c41\u0c28 \u0c38\u0c3e\u0c2e\u0c3e\u0c28\u0c4d\u0c2f\u0c41\u0c21\u0c41\u0c28\u0c41 \u0c17\u0c42\u0c21",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371437.wav",
+    "original_file":"common_voice_te_43371437.mp3",
+    "sentence_id":"43371437",
+    "text":"\u0c2a\u0c30\u0c2e \u0c38\u0c41\u0c02\u0c26\u0c30\u0c02\u0c2c\u0c41 \u0c2b\u0c32\u0c2e\u0c41\u0c32\u0c41",
+    "duration_ms":3636
+  },
+  {
+    "file_name":"common_voice_te_43371645.wav",
+    "original_file":"common_voice_te_43371645.mp3",
+    "sentence_id":"43371645",
+    "text":"\u0c05\u0c17\u0c4d\u0c28\u0c3f\u0c2e\u0c3e\u0c2a\u0c15 \u0c35\u0c3e\u0c39\u0c28\u0c02 \u0c38\u0c48\u0c30\u0c28\u0c4d \u0c2e\u0c4b\u0c17\u0c3f\u0c02\u0c1a\u0c41\u0c15\u0c41\u0c02\u0c1f\u0c42 \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f.",
+    "duration_ms":4140
+  },
+  {
+    "file_name":"common_voice_te_43371523.wav",
+    "original_file":"common_voice_te_43371523.mp3",
+    "sentence_id":"43371523",
+    "text":"\u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c2c\u0c02\u0c21\u0c32\u0c28\u0c41 \u0c24\u0c4a\u0c32\u0c3f\u0c1a\u0c3f \u0c27\u0c4d\u0c35\u0c1c\u0c38\u0c4d\u0c24\u0c02\u0c2d\u0c02 \u0c06\u0c15\u0c43\u0c24\u0c41\u0c32\u0c41\u0c17\u0c3e \u0c2e\u0c32\u0c41\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41",
+    "duration_ms":4320
+  },
+  {
+    "file_name":"common_voice_te_43371482.wav",
+    "original_file":"common_voice_te_43371482.mp3",
+    "sentence_id":"43371482",
+    "text":"\u0c2e\u0c28\u0c41\u0c1c\u0c41\u0c28\u0c3f \u0c2a\u0c4b\u0c28\u0c3e\u0c21\u0c3f",
+    "duration_ms":2628
+  },
+  {
+    "file_name":"common_voice_te_43371479.wav",
+    "original_file":"common_voice_te_43371479.mp3",
+    "sentence_id":"43371479",
+    "text":"\u0c17\u0c46\u0c02\u0c24 \u0c28\u0c47\u0c30\u0c4d\u0c2a\u0c41",
+    "duration_ms":3348
+  },
+  {
+    "file_name":"common_voice_te_43371489.wav",
+    "original_file":"common_voice_te_43371489.mp3",
+    "sentence_id":"43371489",
+    "text":"\u0c38\u0c1c\u0c4d\u0c1c\u0c28\u0c41\u0c32\u0c15\u0c41 \u0c36\u0c3e\u0c02\u0c24\u0c3f \u0c38\u0c39\u0c1c\u0c27\u0c30\u0c4d\u0c2e\u0c02\u0c2c\u0c41\u0c32\u0c41",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371571.wav",
+    "original_file":"common_voice_te_43371571.mp3",
+    "sentence_id":"43371571",
+    "text":"\u0c1a\u0c26\u0c41\u0c35\u0c4a\u0c15\u0c4d\u0c15\u0c1f\u0c47 \u0c15\u0c3e\u0c26\u0c41 \u0c06\u0c1f\u0c32\u0c41 \u0c15\u0c42\u0c21\u0c3e \u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c2e\u0c47",
+    "duration_ms":3708
+  },
+  {
+    "file_name":"common_voice_te_43406795.wav",
+    "original_file":"common_voice_te_43406795.mp3",
+    "sentence_id":"43406795",
+    "text":"\u0c05\u0c17\u0c4d\u0c28\u0c3f\u0c2e\u0c3e\u0c2a\u0c15 \u0c35\u0c3e\u0c39\u0c28\u0c02 \u0c38\u0c48\u0c30\u0c28\u0c4d \u0c2e\u0c4b\u0c17\u0c3f\u0c02\u0c1a\u0c41\u0c15\u0c41\u0c02\u0c1f\u0c42 \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f.",
+    "duration_ms":6048
+  },
+  {
+    "file_name":"common_voice_te_43371561.wav",
+    "original_file":"common_voice_te_43371561.mp3",
+    "sentence_id":"43371561",
+    "text":"\u0c15\u0c32\u0c2e\u0c41 \u0c39\u0c32\u0c2e\u0c41\u0c32\u0c02\u0c26\u0c41 \u0c18\u0c28\u0c41\u0c02\u0c21\u0c41\u0c30\u0c3e \u0c2a\u0c4b\u0c24\u0c28\u0c4d\u0c28",
+    "duration_ms":3708
+  },
+  {
+    "file_name":"common_voice_te_43371627.wav",
+    "original_file":"common_voice_te_43371627.mp3",
+    "sentence_id":"43371627",
+    "text":"\u0c27\u0c30\u0c4d\u0c2e\u0c2e\u0c41\u0c28\u0c4d\u0c28 \u0c1a\u0c4b\u0c1f \u0c27\u0c28\u0c2e\u0c41 \u0c32\u0c47\u0c26\u0c41",
+    "duration_ms":3528
+  },
+  {
+    "file_name":"common_voice_te_43371481.wav",
+    "original_file":"common_voice_te_43371481.mp3",
+    "sentence_id":"43371481",
+    "text":"\u0c05\u0c02\u0c27 \u0c2f\u0c41\u0c17\u0c2e\u0c41 \u0c28\u0c3e\u0c1f\u0c3f",
+    "duration_ms":2808
+  },
+  {
+    "file_name":"common_voice_te_43371584.wav",
+    "original_file":"common_voice_te_43371584.mp3",
+    "sentence_id":"43371584",
+    "text":"\u0c1a\u0c46\u0c21\u0c4d\u0c21\u0c35\u0c3e\u0c28\u0c3f \u0c1a\u0c46\u0c32\u0c3f\u0c2e\u0c3f \u0c1a\u0c3f\u0c1a\u0c4d\u0c1a\u0c41\u0c35\u0c4b\u0c32\u0c46",
+    "duration_ms":3276
+  },
+  {
+    "file_name":"common_voice_te_43371521.wav",
+    "original_file":"common_voice_te_43371521.mp3",
+    "sentence_id":"43371521",
+    "text":"\u0c2a\u0c38\u0c3f\u0c21\u0c3f \u0c15\u0c02\u0c15\u0c23\u0c2e\u0c4d\u0c2e\u0c41 \u0c2c\u0c4d\u0c30\u0c3e\u0c39\u0c4d\u0c2e\u0c23\u0c41 \u0c35\u0c02\u0c1a\u0c3f\u0c02\u0c1a\u0c46",
+    "duration_ms":4428
+  },
+  {
+    "file_name":"common_voice_te_43371439.wav",
+    "original_file":"common_voice_te_43371439.mp3",
+    "sentence_id":"43371439",
+    "text":"\u0c30\u0c3e\u0c1c\u0c41\u0c30\u0c3e\u0c1c\u0c41 \u0c2c\u0c3f\u0c21\u0c4d\u0c21\u0c30\u0c3e \u0c28\u0c47\u0c1f\u0c3f \u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c30\u0c4d\u0c25\u0c3f",
+    "duration_ms":4536
+  },
+  {
+    "file_name":"common_voice_te_43371476.wav",
+    "original_file":"common_voice_te_43371476.mp3",
+    "sentence_id":"43371476",
+    "text":"\u0c38\u0c4d\u0c27\u0c3f\u0c30\u0c2e\u0c24\u0c41\u0c32\u0c48 \u0c38\u0c26\u0c3e\u0c2d\u0c1c\u0c28 \u0c38\u0c47\u0c2f\u0c41 \u0c2e\u0c39\u0c3e\u0c24\u0c4d\u0c2e\u0c41\u0c32 \u0c2a\u0c3e\u0c26\u0c27\u0c42\u0c33\u0c3f \u0c28\u0c3e",
+    "duration_ms":5508
+  },
+  {
+    "file_name":"common_voice_te_43406793.wav",
+    "original_file":"common_voice_te_43406793.mp3",
+    "sentence_id":"43406793",
+    "text":"\u0c13 \u0c38\u0c41\u0c15\u0c41\u0c2e\u0c3e\u0c30\u0c40! \u0c2e\u0c47\u0c32\u0c41\u0c28\u0c41",
+    "duration_ms":4500
+  },
+  {
+    "file_name":"common_voice_te_43371570.wav",
+    "original_file":"common_voice_te_43371570.mp3",
+    "sentence_id":"43371570",
+    "text":"\u0c15\u0c37\u0c4d\u0c1f\u0c38\u0c3e\u0c27\u0c4d\u0c2f\u0c2e\u0c48\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c2e\u0c4d\u0c2e\u0c41 \u0c28\u0c46\u0c30\u0c35\u0c47\u0c30\u0c4d\u0c2a",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371611.wav",
+    "original_file":"common_voice_te_43371611.mp3",
+    "sentence_id":"43371611",
+    "text":"\u0c2e\u0c28\u0c38\u0c41 \u0c15\u0c32\u0c15 \u0c26\u0c47\u0c30\u0c4d\u0c1a\u0c41",
+    "duration_ms":2376
+  },
+  {
+    "file_name":"common_voice_te_43371644.wav",
+    "original_file":"common_voice_te_43371644.mp3",
+    "sentence_id":"43371644",
+    "text":"\u0c2c\u0c48\u0c1f \u0c2a\u0c3f\u0c1a\u0c4d\u0c1a\u0c3f \u0c15\u0c41\u0c15\u0c4d\u0c15 \u0c2a\u0c30\u0c3f\u0c2d\u0c35\u0c3f\u0c02\u0c1a\u0c41",
+    "duration_ms":2880
+  },
+  {
+    "file_name":"common_voice_te_43371520.wav",
+    "original_file":"common_voice_te_43371520.mp3",
+    "sentence_id":"43371520",
+    "text":"\u0c2e\u0c3e\u0c30\u0c4d\u0c24\u0c3e\u0c02\u0c21\u0c41\u0c28\u0c15\u0c41 \u0c15\u0c3e\u0c02\u0c24\u0c3f",
+    "duration_ms":2808
+  },
+  {
+    "file_name":"common_voice_te_43371595.wav",
+    "original_file":"common_voice_te_43371595.mp3",
+    "sentence_id":"43371595",
+    "text":"\u0c2e\u0c02\u0c1a\u0c3f \u0c35\u0c3e\u0c28\u0c3f \u0c2e\u0c48\u0c24\u0c4d\u0c30\u0c3f \u0c2e\u0c32\u0c2f\u0c2e\u0c3e\u0c30\u0c41\u0c24 \u0c35\u0c40\u0c1a\u0c3f",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43406783.wav",
+    "original_file":"common_voice_te_43406783.mp3",
+    "sentence_id":"43406783",
+    "text":"\u0c06 \u0c2e\u0c02\u0c26\u0c39\u0c3e\u0c38\u0c2e\u0c28\u0c3f \u0c2d\u0c3e\u0c35\u0c2e\u0c41",
+    "duration_ms":4176
+  },
+  {
+    "file_name":"common_voice_te_43371630.wav",
+    "original_file":"common_voice_te_43371630.mp3",
+    "sentence_id":"43371630",
+    "text":"\u0c24\u0c3e\u0c24\u0c32 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f\u0c28\u0c3f \u0c35\u0c26\u0c3f\u0c32\u0c3f \u0c35\u0c47\u0c30\u0c47 \u0c2a\u0c28\u0c3f\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c2e\u0c28\u0c38\u0c41 \u0c12\u0c2a\u0c4d\u0c2a\u0c41\u0c15\u0c4b\u0c26\u0c41",
+    "duration_ms":5616
+  },
+  {
+    "file_name":"common_voice_te_43371563.wav",
+    "original_file":"common_voice_te_43371563.mp3",
+    "sentence_id":"43371563",
+    "text":"\u0c18\u0c28\u0c24 \u0c15\u0c42\u0c30\u0c4d\u0c1a\u0c41",
+    "duration_ms":3636
+  },
+  {
+    "file_name":"common_voice_te_43371596.wav",
+    "original_file":"common_voice_te_43371596.mp3",
+    "sentence_id":"43371596",
+    "text":"\u0c2b\u0c40\u0c1c\u0c41 \u0c1a\u0c46\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c30\u0c4b\u0c1c\u0c41 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c02 \u0c2a\u0c3e\u0c1f\u0c41 \u0c15\u0c4d\u0c32\u0c3e\u0c38\u0c41\u0c32\u0c41 \u0c35\u0c3f\u0c28\u0c4a\u0c1a\u0c4d\u0c1a\u0c41",
+    "duration_ms":4608
+  },
+  {
+    "file_name":"common_voice_te_43371549.wav",
+    "original_file":"common_voice_te_43371549.mp3",
+    "sentence_id":"43371549",
+    "text":"\u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c28\u0c17\u0c41 \u0c27\u0c30\u0c3f\u0c24\u0c4d\u0c30 \u0c1c\u0c40\u0c35\u0c28\u0c4d\u0c2e\u0c43\u0c24\u0c41\u0c02 \u0c21\u0c28\u0c3f",
+    "duration_ms":4140
+  },
+  {
+    "file_name":"common_voice_te_43371480.wav",
+    "original_file":"common_voice_te_43371480.mp3",
+    "sentence_id":"43371480",
+    "text":"\u0c35\u0c3f\u0c37\u0c2f\u0c3f\u0c1c\u0c4d\u0c1e\u0c3e\u0c28\u0c2e\u0c28\u0c3f \u0c35\u0c3f\u0c2d\u0c3e\u0c17\u0c2e\u0c41",
+    "duration_ms":3348
+  },
+  {
+    "file_name":"common_voice_te_43371522.wav",
+    "original_file":"common_voice_te_43371522.mp3",
+    "sentence_id":"43371522",
+    "text":"\u0c05\u0c26\u0c4d\u0c2d\u0c41\u0c24\u0c36\u0c15\u0c4d\u0c24\u0c3f\u0c2f\u0c41\u0c15\u0c4d\u0c24\u0c2e\u0c48",
+    "duration_ms":2880
+  },
+  {
+    "file_name":"common_voice_te_43371427.wav",
+    "original_file":"common_voice_te_43371427.mp3",
+    "sentence_id":"43371427",
+    "text":"\u0c2a\u0c30\u0c3f\u0c2a\u0c42\u0c30\u0c4d\u0c23\u0c2e\u0c48 \u0c2c\u0c1f\u0c4d\u0c1f\u0c2c\u0c2f\u0c32\u0c41\u0c17\u0c3e\u0c28\u0c41",
+    "duration_ms":5688
+  },
+  {
+    "file_name":"common_voice_te_43371441.wav",
+    "original_file":"common_voice_te_43371441.mp3",
+    "sentence_id":"43371441",
+    "text":"\u0c24\u0c28\u0c15\u0c41 \u0c24\u0c17\u0c28\u0c3f \u0c2a\u0c3f\u0c1a\u0c4d\u0c1a\u0c3f \u0c2a\u0c28\u0c41\u0c32\u0c15\u0c41 \u0c2a\u0c4b\u0c28\u0c47\u0c32",
+    "duration_ms":4356
+  },
+  {
+    "file_name":"common_voice_te_43406796.wav",
+    "original_file":"common_voice_te_43406796.mp3",
+    "sentence_id":"43406796",
+    "text":"\u0c2c\u0c4d\u0c30\u0c24\u0c3f\u0c15\u0c3f\u0c28\u0c28\u0c4d\u0c28\u0c3f\u0c28\u0c3e\u0c33\u0c4d\u0c33\u0c41 \u0c2b\u0c32\u0c2e\u0c41 \u0c32\u0c3f\u0c1a\u0c4d\u0c1a\u0c41\u0c1f \u0c17\u0c3e\u0c26\u0c41",
+    "duration_ms":6228
+  },
+  {
+    "file_name":"common_voice_te_43371507.wav",
+    "original_file":"common_voice_te_43371507.mp3",
+    "sentence_id":"43371507",
+    "text":"\u0c36\u0c40\u0c32\u0c2e\u0c41 \u0c15\u0c4a\u0c02\u0c26\u0c30\u0c3f\u0c15\u0c3f \u0c05\u0c21\u0c41\u0c17\u0c02\u0c1f\u0c41\u0c28\u0c41 \u0c17\u0c3e\u0c15",
+    "duration_ms":3888
+  },
+  {
+    "file_name":"common_voice_te_43371573.wav",
+    "original_file":"common_voice_te_43371573.mp3",
+    "sentence_id":"43371573",
+    "text":"\u0c2e\u0c17 \u0c2a\u0c4a\u0c02\u0c26\u0c41 \u0c32\u0c47\u0c15\u0c2f\u0c47",
+    "duration_ms":3096
+  },
+  {
+    "file_name":"common_voice_te_43371508.wav",
+    "original_file":"common_voice_te_43371508.mp3",
+    "sentence_id":"43371508",
+    "text":"\u0c2e\u0c3e\u0c1f",
+    "duration_ms":2196
+  },
+  {
+    "file_name":"common_voice_te_43371583.wav",
+    "original_file":"common_voice_te_43371583.mp3",
+    "sentence_id":"43371583",
+    "text":"\u0c17\u0c41\u0c30\u0c41\u0c35\u0c3e\u0c30\u0c02 \u0c28\u0c3e\u0c15\u0c41 \u0c0f \u0c2a\u0c28\u0c3f \u0c32\u0c47\u0c26\u0c41",
+    "duration_ms":3636
+  },
+  {
+    "file_name":"common_voice_te_43371642.wav",
+    "original_file":"common_voice_te_43371642.mp3",
+    "sentence_id":"43371642",
+    "text":"\u0c1a\u0c32\u0c4d\u0c32\u0c1f\u0c3f \u0c17\u0c3e\u0c32\u0c3f \u0c35\u0c40\u0c38\u0c4d\u0c24\u0c4b\u0c02\u0c26\u0c3f, \u0c15\u0c3e\u0c28\u0c40 \u0c1a\u0c32\u0c4d\u0c32\u0c17\u0c3e \u0c32\u0c47\u0c26\u0c41.",
+    "duration_ms":4068
+  },
+  {
+    "file_name":"common_voice_te_43371637.wav",
+    "original_file":"common_voice_te_43371637.mp3",
+    "sentence_id":"43371637",
+    "text":"\u0c36\u0c28\u0c3f\u0c35\u0c3e\u0c30\u0c02 \u0c30\u0c3e\u0c24\u0c4d\u0c30\u0c3f \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c2e\u0c4a\u0c26\u0c32\u0c48\u0c28 \u0c35\u0c30\u0c4d\u0c37\u0c02 \u0c06\u0c26\u0c3f\u0c35\u0c3e\u0c30\u0c02 \u0c30\u0c4b\u0c1c\u0c02\u0c24\u0c3e \u0c15\u0c4a\u0c28\u0c38\u0c3e\u0c17\u0c3f\u0c02\u0c26\u0c3f",
+    "duration_ms":5580
+  },
+  {
+    "file_name":"common_voice_te_43406797.wav",
+    "original_file":"common_voice_te_43406797.mp3",
+    "sentence_id":"43406797",
+    "text":"\u0c2e\u0c3e \u0c15\u0c33\u0c28\u0c41 \u0c17\u0c41\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c3f \u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c30\u0c3e\u0c35\u0c21\u0c02 \u0c0e\u0c02\u0c24\u0c4b \u0c06\u0c28\u0c02\u0c26\u0c02\u0c17\u0c3e \u0c09\u0c02\u0c1f\u0c41\u0c02\u0c26\u0c3f.",
+    "duration_ms":7560
+  },
+  {
+    "file_name":"common_voice_te_43371609.wav",
+    "original_file":"common_voice_te_43371609.mp3",
+    "sentence_id":"43371609",
+    "text":"\u0c30\u0c2c\u0c40\u0c32\u0c4b \u0c05\u0c24\u0c4d\u0c2f\u0c27\u0c3f\u0c15\u0c02\u0c17\u0c3e \u0c38\u0c3e\u0c17\u0c41 \u0c1a\u0c47\u0c38\u0c47 \u0c2a\u0c02\u0c1f\u0c32\u0c4d\u0c32\u0c4b \u0c36\u0c28\u0c17 \u0c12\u0c15\u0c4d\u0c15\u0c1f\u0c3f.",
+    "duration_ms":4500
+  },
+  {
+    "file_name":"common_voice_te_43371565.wav",
+    "original_file":"common_voice_te_43371565.mp3",
+    "sentence_id":"43371565",
+    "text":"\u0c35\u0c3f\u0c37\u0c2e\u0c39\u0c40\u0c1c\u0c2e\u0c41\u0c28\u0c15\u0c41 \u0c35\u0c46\u0c32\u0c2f\u0c41 \u0c30\u0c46\u0c02\u0c21\u0c41",
+    "duration_ms":3456
+  },
+  {
+    "file_name":"common_voice_te_43371504.wav",
+    "original_file":"common_voice_te_43371504.mp3",
+    "sentence_id":"43371504",
+    "text":"\u0c38\u0c4d\u0c24\u0c02\u0c2d\u0c02 \u0c1a\u0c46\u0c15\u0c4d\u0c15\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c38\u0c2e\u0c2f\u0c02 \u0c2a\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f",
+    "duration_ms":3780
+  },
+  {
+    "file_name":"common_voice_te_43371430.wav",
+    "original_file":"common_voice_te_43371430.mp3",
+    "sentence_id":"43371430",
+    "text":"\u0c15\u0c32\u0c3f\u0c2e\u0c3f \u0c17\u0c32\u0c3f\u0c17\u0c3f",
+    "duration_ms":4140
+  },
+  {
+    "file_name":"common_voice_te_43406780.wav",
+    "original_file":"common_voice_te_43406780.mp3",
+    "sentence_id":"43406780",
+    "text":"\u0c2c\u0c3e\u0c32\u0c2e\u0c3e\u0c28\u0c38\u0c2e\u0c41\u0c32 \u0c2e\u0c47\u0c32\u0c41\u0c15\u0c4a\u0c32\u0c4d\u0c2a\u0c41",
+    "duration_ms":4500
+  },
+  {
+    "file_name":"common_voice_te_43371575.wav",
+    "original_file":"common_voice_te_43371575.mp3",
+    "sentence_id":"43371575",
+    "text":"\u0c06 \u0c2e\u0c02\u0c26\u0c39\u0c3e\u0c38\u0c2e\u0c28\u0c3f \u0c2d\u0c3e\u0c35\u0c2e\u0c41",
+    "duration_ms":3708
+  },
+  {
+    "file_name":"common_voice_te_43371499.wav",
+    "original_file":"common_voice_te_43371499.mp3",
+    "sentence_id":"43371499",
+    "text":"\u0c2d\u0c3e\u0c17\u0c35\u0c24\u0c2e\u0c41 \u0c35\u0c4d\u0c30\u0c3e\u0c38\u0c46 \u0c2c\u0c2e\u0c4d\u0c2e\u0c46\u0c30 \u0c2a\u0c4b\u0c24\u0c28\u0c4d\u0c28",
+    "duration_ms":4248
+  },
+  {
+    "file_name":"common_voice_te_43371562.wav",
+    "original_file":"common_voice_te_43371562.mp3",
+    "sentence_id":"43371562",
+    "text":"\u0c0e\u0c35\u0c30\u0c42 \u0c21\u0c2c\u0c4d\u0c2c\u0c41 \u0c2a\u0c02\u0c2a\u0c35\u0c26\u0c4d\u0c26\u0c28\u0c3f \u0c35\u0c3e\u0c30\u0c41 \u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c1c\u0c47\u0c38\u0c3e\u0c30\u0c41",
+    "duration_ms":4248
+  },
+  {
+    "file_name":"common_voice_te_43371474.wav",
+    "original_file":"common_voice_te_43371474.mp3",
+    "sentence_id":"43371474",
+    "text":"\u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c48\u0c2a\u0c30\u0c40\u0c24\u0c4d\u0c2f\u0c3e\u0c32 \u0c38\u0c2e\u0c2f\u0c02\u0c32\u0c4b \u0c24\u0c40\u0c35\u0c4d\u0c30 \u0c07\u0c2c\u0c4d\u0c2c\u0c02\u0c26\u0c41\u0c32\u0c41 \u0c2a\u0c21\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c02.",
+    "duration_ms":5580
+  },
+  {
+    "file_name":"common_voice_te_43371564.wav",
+    "original_file":"common_voice_te_43371564.mp3",
+    "sentence_id":"43371564",
+    "text":"\u0c15\u0c32\u0c38\u0c2a\u0c3e\u0c21\u0c41 \u0c2c\u0c4d\u0c30\u0c3f\u0c21\u0c4d\u0c1c\u0c3f\u0c2a\u0c48 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c28\u0c40\u0c30\u0c41 \u0c2a\u0c4d\u0c30\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f",
+    "duration_ms":4500
+  },
+  {
+    "file_name":"common_voice_te_43406779.wav",
+    "original_file":"common_voice_te_43406779.mp3",
+    "sentence_id":"43406779",
+    "text":"\u0c0e\u0c28\u0c4d\u0c28\u0c4b \u0c30\u0c3e\u0c2e \u0c38\u0c02\u0c15\u0c40\u0c30\u0c4d\u0c24\u0c28\u0c32\u0c41",
+    "duration_ms":4428
+  },
+  {
+    "file_name":"common_voice_te_43371593.wav",
+    "original_file":"common_voice_te_43371593.mp3",
+    "sentence_id":"43371593",
+    "text":"\u0c17\u0c39\u0c28\u0c2e\u0c46\u0c02\u0c24 \u0c05\u0c17\u0c4d\u0c28\u0c3f \u0c15\u0c23\u0c2e\u0c26\u0c46\u0c02\u0c24",
+    "duration_ms":4248
+  },
+  {
+    "file_name":"common_voice_te_43371566.wav",
+    "original_file":"common_voice_te_43371566.mp3",
+    "sentence_id":"43371566",
+    "text":"\u0c15\u0c30\u0c41\u0c23\u0c36\u0c4d\u0c30\u0c40",
+    "duration_ms":2736
+  }
+]
