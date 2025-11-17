@@ -2,7 +2,8 @@
 REM Voice Cloner WebUI Launcher
 REM This script activates the virtual environment and runs the WebUI
 
-cd /d "d:\Voice Cloner\index-tts"
+REM Change to the directory where this script is located
+cd /d "%~dp0"
 
 REM Activate the virtual environment
 if exist .venv\Scripts\activate.bat (
