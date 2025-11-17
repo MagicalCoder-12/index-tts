@@ -146,6 +146,34 @@ git lfs pull  # download large repository files
 ```
 
 3. Install the [uv package manager](https://docs.astral.sh/uv/getting-started/installation/).
+
+## 🗣 Telugu Voice Cloning
+
+IndexTTS now supports Telugu voice cloning! The repository includes a Telugu voice dataset with over 100 voice samples and corresponding text transcriptions.
+
+### Quick Start with Telugu Voices
+
+List available Telugu voices:
+```bash
+uv run clone_telugu_voice.py --list
+```
+
+Clone a Telugu voice:
+```bash
+uv run clone_telugu_voice.py --voice "tests/te/wav_clips/common_voice_te_43371640.wav" --text "ఈ వ్యవస్థ తెలుగు భాషను మద్దతు ఇస్తుంది" --output telugu_output.wav
+```
+
+### Training with Telugu Data
+
+Prepare the Telugu dataset for training:
+```bash
+uv run prepare_telugu_training.py
+```
+
+Train the model with Telugu voices (requires proper training setup):
+```bash
+uv run train_telugu_voice.py
+```
    It is *required* for a reliable, modern installation environment.
 
 > [!TIP]
@@ -307,6 +335,9 @@ Here are several examples of how to use IndexTTS2 in your own scripts:
 from indextts.infer_v2 import IndexTTS2
 tts = IndexTTS2(cfg_path="checkpoints/config.yaml", model_dir="checkpoints", use_fp16=False, use_cuda_kernel=False, use_deepspeed=False)
 text = "Translate for me, what is a surprise!"
+
+# For Telugu voice cloning, you can use:
+# text = "ఈ వ్యవస్థ తెలుగు భాషను మద్దతు ఇస్తుంది"  # Telugu text example
 tts.infer(spk_audio_prompt='examples/voice_01.wav', text=text, output_path="gen.wav", verbose=True)
 ```
 

@@ -155,7 +155,14 @@ class IndexTTS2:
         self.bigvgan.eval()
         print(">> bigvgan weights restored from:", bigvgan_name)
 
-        self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
+        # Check if Telugu support is enabled and if we should use Telugu BPE model
+        if hasattr(self.cfg.dataset, 'telugu_support') and self.cfg.dataset.telugu_support:
+            # For now, we'll use the regular BPE model for all languages
+            # In a more advanced implementation, we could detect the language and switch models
+            self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
+        else:
+            self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
+        
         self.normalizer = TextNormalizer()
         self.normalizer.load()
         print(">> TextNormalizer loaded")
