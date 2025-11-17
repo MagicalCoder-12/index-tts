@@ -5,10 +5,15 @@
 
 set -e  # Exit on error
 
+# Change to the directory where this script is located
+cd "$(dirname "$0")"
+
 echo ""
 echo "================================================"
 echo "  IndexTTS2 - One-Click Startup (Linux/macOS)"
 echo "================================================"
+echo ""
+echo "[INFO] Working directory: $(pwd)"
 echo ""
 
 # Function to print colored output

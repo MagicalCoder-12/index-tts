@@ -1,10 +1,16 @@
 # IndexTTS2 One-Click Startup Script for Windows PowerShell
 # This script will install dependencies and launch the WebUI
 
+# Change to the directory where this script is located
+$scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
+Set-Location $scriptPath
+
 Write-Host ""
 Write-Host "================================================" -ForegroundColor Green
 Write-Host "  IndexTTS2 - One-Click Startup (Windows PS)" -ForegroundColor Green
 Write-Host "================================================" -ForegroundColor Green
+Write-Host ""
+Write-Host "[INFO] Working directory: $(Get-Location)" -ForegroundColor Cyan
 Write-Host ""
 
 # Function to print colored output

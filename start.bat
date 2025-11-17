@@ -4,10 +4,15 @@ REM This script will install dependencies and launch the WebUI
 
 setlocal enabledelayedexpansion
 
+REM Change to the directory where this script is located
+cd /d "%~dp0"
+
 echo.
 echo ================================================
 echo     IndexTTS2 - One-Click Startup (Windows)
 echo ================================================
+echo.
+echo [INFO] Working directory: %cd%
 echo.
 
 REM Check if Python is installed
