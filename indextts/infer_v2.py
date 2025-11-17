@@ -35,6 +35,11 @@ from transformers import SeamlessM4TFeatureExtractor
 import random
 import torch.nn.functional as F
 
+def detect_telugu_text(text):
+    """Detect if text contains Telugu characters"""
+    # Telugu Unicode range: U+0C00 to U+0C7F
+    return bool(re.search(r'[\u0C00-\u0C7F]', text))
+
 class IndexTTS2:
     def __init__(
             self, cfg_path="checkpoints/config.yaml", model_dir="checkpoints", use_fp16=False, device=None,
@@ -156,18 +161,26 @@ class IndexTTS2:
         print(">> bigvgan weights restored from:", bigvgan_name)
 
         # Check if Telugu support is enabled and if we should use Telugu BPE model
+        self.telugu_bpe_path = None
         if hasattr(self.cfg.dataset, 'telugu_support') and self.cfg.dataset.telugu_support:
-            # For now, we'll use the regular BPE model for all languages
-            # In a more advanced implementation, we could detect the language and switch models
-            self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
-        else:
-            self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
+            te_bpe_path = os.path.join(self.model_dir, "te_bpe.model")
+            if os.path.exists(te_bpe_path):
+                self.telugu_bpe_path = te_bpe_path
+                print(f">> Telugu BPE model available at: {te_bpe_path}")
         
+        self.bpe_path = os.path.join(self.model_dir, self.cfg.dataset["bpe_model"])
         self.normalizer = TextNormalizer()
         self.normalizer.load()
         print(">> TextNormalizer loaded")
         self.tokenizer = TextTokenizer(self.bpe_path, self.normalizer)
         print(">> bpe model loaded from:", self.bpe_path)
+        
+        # Load Telugu tokenizer if available
+        if self.telugu_bpe_path:
+            self.telugu_tokenizer = TextTokenizer(self.telugu_bpe_path, self.normalizer)
+            print(">> Telugu bpe model loaded from:", self.telugu_bpe_path)
+        else:
+            self.telugu_tokenizer = None
 
         emo_matrix = torch.load(os.path.join(self.model_dir, self.cfg.emo_matrix))
         self.emo_matrix = emo_matrix.to(self.device)
@@ -490,14 +503,22 @@ class IndexTTS2:
             emo_cond_emb = self.cache_emo_cond
 
         self._set_gr_progress(0.1, "text processing...")
-        text_tokens_list = self.tokenizer.tokenize(text)
-        segments = self.tokenizer.split_segments(text_tokens_list, max_text_tokens_per_segment, quick_streaming_tokens = quick_streaming_tokens)
+        # Detect language and use appropriate tokenizer
+        is_telugu = detect_telugu_text(text)
+        if is_telugu and self.telugu_tokenizer:
+            print(f">> Detected Telugu text, using Telugu BPE model")
+            active_tokenizer = self.telugu_tokenizer
+        else:
+            active_tokenizer = self.tokenizer
+        
+        text_tokens_list = active_tokenizer.tokenize(text)
+        segments = active_tokenizer.split_segments(text_tokens_list, max_text_tokens_per_segment, quick_streaming_tokens = quick_streaming_tokens)
         segments_count = len(segments)
 
-        text_token_ids = self.tokenizer.convert_tokens_to_ids(text_tokens_list)
-        if self.tokenizer.unk_token_id in text_token_ids:
-            print(f"  >> Warning: input text contains {text_token_ids.count(self.tokenizer.unk_token_id)} unknown tokens (id={self.tokenizer.unk_token_id}):")
-            print( "     Tokens which can't be encoded: ", [t for t, id in zip(text_tokens_list, text_token_ids) if id == self.tokenizer.unk_token_id])
+        text_token_ids = active_tokenizer.convert_tokens_to_ids(text_tokens_list)
+        if active_tokenizer.unk_token_id in text_token_ids:
+            print(f"  >> Warning: input text contains {text_token_ids.count(active_tokenizer.unk_token_id)} unknown tokens (id={active_tokenizer.unk_token_id}):")
+            print( "     Tokens which can't be encoded: ", [t for t, id in zip(text_tokens_list, text_token_ids) if id == active_tokenizer.unk_token_id])
             print(f"     Consider updating the BPE model or modifying the text to avoid unknown tokens.")
                   
         if verbose:
@@ -527,7 +548,7 @@ class IndexTTS2:
             self._set_gr_progress(0.2 + 0.7 * seg_idx / segments_count,
                                   f"speech synthesis {seg_idx + 1}/{segments_count}...")
 
-            text_tokens = self.tokenizer.convert_tokens_to_ids(sent)
+            text_tokens = active_tokenizer.convert_tokens_to_ids(sent)
             text_tokens = torch.tensor(text_tokens, dtype=torch.int32, device=self.device).unsqueeze(0)
             if verbose:
                 print(text_tokens)

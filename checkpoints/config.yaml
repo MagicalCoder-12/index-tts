@@ -1,5 +1,7 @@
 dataset:
     bpe_model: bpe.model
+    telugu_support: true
+    telugu_bpe_model: te_bpe.model
     sample_rate: 24000
     squeeze: false
     mel:
